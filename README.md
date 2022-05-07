@@ -2,7 +2,7 @@
 
 - I live in Saint-Petersburg, Russia.
 - I'm an engineer at [Sperasoft](https://sperasoft.com/).
-- You can shoot me an email at [master-vva@narod.ru](mailto:master-vva@narod.ru).
+- You can reach me on telegram [https://t.me/ninedev](https://t.me/ninedev).
 
 ### My skills
 
