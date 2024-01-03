@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Victor
 
 - I live in Saint-Petersburg, Russia.
-- I'm an engineer at [Sperasoft](https://sperasoft.com/).
 - You can reach me on telegram [https://t.me/ninedev](https://t.me/ninedev).
 
 ### My skills
