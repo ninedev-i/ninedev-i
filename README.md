@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Victor
 
-- I live in Saint-Petersburg, Russia.
+- I'm a frontend developer specializing in creating engaging and user-friendly web applications.
 - You can reach me on telegram [https://t.me/ninedev](https://t.me/ninedev).
 
 ### My skills
